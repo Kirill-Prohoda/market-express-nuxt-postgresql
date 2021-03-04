@@ -1,0 +1,27 @@
+{
+  "name": "expnext",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/pwa": "^3.3.5",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "cookie-parser": "^1.4.5",
+    "core-js": "^3.8.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "nuxt": "^2.14.12",
+    "pg": "^8.5.1",
+    "vue": "^2.6.12"
+  }
+}
